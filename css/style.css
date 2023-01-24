@@ -1,0 +1,31 @@
+body {
+    background-color: cadetblue;
+}
+.navbar-brand img {
+    height: 70px;
+}
+.carousel-item img {
+    height: 500px
+}
+.kart-resim {
+    height: 150px
+}
+.kutu {
+    padding: 15px;
+    background-color: #dddddd;
+    border-radius: 5px;
+    border: 2px solid #dadada;
+}
+footer { 
+    background-color: yellow;
+    text-align: center;
+}
+footer a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    margin-bottom: 0;
+}
+footer span {
+    color: red;
+}
