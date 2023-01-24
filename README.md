@@ -1,6 +1,6 @@
 # bootstrap
 
-<h4> BOOTSTRAP 5 mobil uyumlu Sayfa </h4>
+<h4> BOOTSTRAP - mobil uyumlu Sayfa </h4>
 
 https://ayhanaycan.github.io/bootstrap/
 
